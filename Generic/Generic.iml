@@ -43,32 +43,13 @@
     <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils-core:1.8.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: info.cukes:gherkin:2.12.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:1.10.19" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: net.sourceforge.cobertura:cobertura:2.1.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.ow2.asm:asm:5.0.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.ow2.asm:asm-tree:5.0.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.ow2.asm:asm-commons:5.0.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.ow2.asm:asm-util:5.0.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.ow2.asm:asm-analysis:5.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.sourceforge.cobertura:cobertura:1.9.4.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: oro:oro:2.0.8" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: jaxen:jaxen:1.1.4" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apache.ant:ant:1.8.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apache.ant:ant-launcher:1.8.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apache.ant:ant-junit:1.8.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.mortbay.jetty:servlet-api-2.5:6.1.14" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.mortbay.jetty:jetty:6.1.14" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.mortbay.jetty:jetty-util:6.1.14" level="project" />
-    <orderEntry type="module-library">
-      <library name="Maven: com.sun:tools:0">
-        <CLASSES>
-          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/lib/tools.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" scope="TEST" name="Maven: org.slf4j:slf4j-api:1.7.5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: ch.qos.logback:logback-classic:1.0.13" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: ch.qos.logback:logback-core:1.0.13" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: asm:asm:3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: asm:asm-tree:3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: log4j:log4j:1.2.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.ant:ant:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.ant:ant-launcher:1.7.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:3.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-remote-driver:3.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:3.0.1" level="project" />
